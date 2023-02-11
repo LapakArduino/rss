@@ -12,5 +12,6 @@ tags:
 - tag2
 ---
 
+ini posyt
 
 <!--more-->
